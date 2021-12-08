@@ -1,6 +1,6 @@
 # How to use Rechart js in React js
 
-First Install package from this link  [](https://recharts.org/en-US/guide/installation).
+First Install package from this   [link](https://recharts.org/en-US/guide/installation).
 
 
 >go to expamples -------
